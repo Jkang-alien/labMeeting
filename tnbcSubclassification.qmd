@@ -18,4 +18,6 @@ editor: visual
   + Results
     * Describe the results referring tables and figures
 
-3. GEO submmision
+3. Gather references about main findings.
+
+4. GEO submmision

@@ -3,10 +3,8 @@ project:
   resources: 
     - "*.pdf"
     - "*.doc"
-    - "obyLecture.html"
-
 website:
-  title: "Lecture Repository"
+  title: "Let's Publish"
   navbar:
     left:
       - href: index.qmd
