@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 3d6a4525-8714-4338-b0ac-275dc1d31150
+      url: 'https://quartopub.com/sites/jkang/labmeeting'
