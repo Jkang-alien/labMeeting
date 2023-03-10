@@ -1,0 +1,21 @@
+---
+title: "TNBC Subclassification"
+editor: visual
+---
+
+### 3/10
+
+1. Data
+  + Fill in clinical data
+  
+2. Manuscript
+  + Aim Genomic characteristics of the surrogate subclassification
+    * LAR PIK3CA mutation, HRR
+    * non LAR HRD
+    * non LAR LP high TMB
+  + Methods
+    * Edit Macrogen text
+  + Results
+    * Describe the results referring tables and figures
+
+3. GEO submmision

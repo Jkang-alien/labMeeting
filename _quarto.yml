@@ -1,14 +1,22 @@
 project:
   type: website
+  resources: 
+    - "*.pdf"
+    - "*.doc"
+    - "obyLecture.html"
 
 website:
-  title: "labMeeting"
+  title: "Lecture Repository"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: tnbcSubclassification.qmd
+        text: TNBC Subclassification
+      - href: p16Genomics.qmd
+        text: p16 Genomics
+      - href: Neoadjuvant.qmd
+        text: Neoadjuvant
 format:
   html:
     theme: cosmo

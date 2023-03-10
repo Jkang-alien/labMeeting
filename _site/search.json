@@ -4,13 +4,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Lab Meeting Notes"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "labMeeting",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Let’s Publish."
+  },
+  {
+    "objectID": "tnbcSubclassification.html",
+    "href": "tnbcSubclassification.html",
+    "title": "TNBC Subclassification",
+    "section": "",
+    "text": "3/10\n\nData\n\n\nFill in clinical data\n\n\nManuscript\n\n\nAim Genomic characteristics of the surrogate subclassification\n\nLAR PIK3CA mutation, HRR\nnon LAR HRD\nnon LAR LP high TMB\n\nMethods\n\nEdit Macrogen text\n\nResults\n\nDescribe the results referring tables and figures\n\n\n\nGEO submmision"
   }
 ]

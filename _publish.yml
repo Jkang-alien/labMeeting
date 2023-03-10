@@ -1,4 +1,4 @@
 - source: project
-  quarto-pub:
-    - id: 3d6a4525-8714-4338-b0ac-275dc1d31150
-      url: 'https://quartopub.com/sites/jkang/labmeeting'
+  netlify:
+    - id: 5015044f-1ec8-45b8-8d43-10296f8db06f
+      url: 'https://vocal-piroshki-49daec.netlify.app'
